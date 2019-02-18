@@ -1,6 +1,6 @@
 {
   "name": "drafter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Node API Blueprint Parser",
   "main": "lib/drafter.js",
   "engines": {
