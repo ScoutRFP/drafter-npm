@@ -22,9 +22,6 @@
   "dependencies": {
     "drafter.js": "^2.6.0"
   },
-  "optionalDependencies": {
-    "protagonist": "^1.6.0"
-  },
   "devDependencies": {
     "mocha": "~1.17.1",
     "chai": "~1.9.0"
